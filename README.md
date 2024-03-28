@@ -1,2 +1,4 @@
 # Hacklytics2024
- Georgia Tech Hackathon
+These are our files made for our project in Georgia Tech's Hacklytics
+
+Awarded #1 in Assurant's Track.
